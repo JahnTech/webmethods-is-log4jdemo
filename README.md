@@ -10,6 +10,10 @@ a more explicit way is implemented with a few lines of Java code.
 
 This package is not meant for production use but demonstration purposes.
 
+## Installation from Source
+
+Details can be found at https://github.com/JahnTech/webmethods-is-pkg-installation
+
 ------------------------------
 
 These tools are provided as-is and without warranty or support. Users are free to use, fork and modify them, subject to the license agreement.
